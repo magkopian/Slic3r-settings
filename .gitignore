@@ -1,1 +1,4 @@
 slic3r.ini
+cache/
+vendor/
+snapshots/
